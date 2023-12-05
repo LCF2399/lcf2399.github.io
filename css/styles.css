@@ -28,10 +28,10 @@ body {
     font-weight: bold; 
   }
   header img {
-    text-align: left;
+    text-align: right;
     border-radius: 50%; 
-    width: 150px; 
-    height: 150px;
+    width: 100px; 
+    height: 100px;
     display: block; 
     margin: 0 auto; 
   }
@@ -46,7 +46,7 @@ nav a {
   color: #fff;
   text-decoration: none;
   margin: 0 15px;
-  transition: color 0.3s; /* Add a smooth transition effect for color changes */
+  transition: color 0.9s; /* Add a smooth transition effect for color changes */
 }
 
 /* Adding a hover */
@@ -57,7 +57,7 @@ nav a:hover {
 
   main {
     display: block; 
-    padding: 20px; 
+    padding: 10px; 
     margin: 10px 0; 
     background-color: #ffffff; 
     color: #333; 
